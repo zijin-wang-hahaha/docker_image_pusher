@@ -3,4 +3,5 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 mysql
 
---platform=linux/arm64
+#--platform=linux/arm64
+--platform=linux/arm64 ubuntu:latest
