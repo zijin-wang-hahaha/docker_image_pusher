@@ -1,7 +1,9 @@
-alpine
-kasmweb/nginx:1.25.3
-python:alpine3.19
+--platform=linux/arm64v8 ubuntu:latest
+
+#alpine
+#kasmweb/nginx:1.25.3
+#python:alpine3.19
 mysql
 
-#--platform=linux/arm64
---platform=linux/arm64 ubuntu:latest
+#--platform=linux/adm64
+#--platform=linux/arm64v8 ubuntu:latest
