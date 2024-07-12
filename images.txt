@@ -1,2 +1,2 @@
 --platform=linux/arm64/v8 ubuntu:latest
-mysql
+arm64/v8/mysql:latest
